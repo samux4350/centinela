@@ -16,3 +16,7 @@
 
 .footer {background-color: #333;color: white;text-align: center;padding: 10px 0;}
         
+.inicio {text-align: right;list-style: none;padding: 0;font-family: Arial, sans-serif;margin: 0;padding: 0;}
+
+.boton {color:black; background-color:#1877f2; border: none; border-radius: 5px; padding: 10px 20px; font-size: 16px; cursor: pointer; text-decoration: none;}
+.boton:hover {background-color: #1566d0;}
